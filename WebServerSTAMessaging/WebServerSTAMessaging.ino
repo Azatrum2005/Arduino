@@ -6,7 +6,7 @@
 
 // SSID and password of Wifi connection:
 const char* ssid = "H155-380_198A";
-const char* password = "aBAFbt3ALF8";
+const char* password = "<password>";
 WebServer server(80);
 WebSocketsServer webSocket = WebSocketsServer(81); 
 
